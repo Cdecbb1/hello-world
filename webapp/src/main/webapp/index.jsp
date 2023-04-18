@@ -25,8 +25,8 @@
     <hr>
     <br>
 
-    <label for="age"><b>Repeat Password</b></label>
-    <input type="text" placeholder="enter age" name="age" id="age" required>
+    <label for="age"><b>Age</b></label>
+    <input type="number" placeholder="enter age" name="age" id="age" required>
     <hr>
     <br>
 
